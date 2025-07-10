@@ -1,0 +1,6 @@
+I resolved the merge conflict in e1 by updating the text to include updates from both test and working branch. commited these chages and pushed them to working. 
+
+i made the following changes in c1:
+updated wording for contact.html on line 35.
+udpated line 35 of services.html to be more casual
+updated line 35 in about.html to make use of a movie reference
